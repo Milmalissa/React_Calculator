@@ -22,8 +22,6 @@ render() {
     <div>
       <h1>Rechner</h1>      
       <Calculator />
-      {/* <InsertName onClick={(inputValue) => this.changeName(inputValue)} />
-      <Greeter name={this.state.name} /> */}
     </div>
   );
 }
